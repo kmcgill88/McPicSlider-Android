@@ -35,7 +35,7 @@ dependencies {
 3. Add XML
 ```xml
 <com.mcgilldevtech.mcpicslider.McViewPager
-    android:id="@+id/vp"
+    android:id="@+id/mcViewPager"
     android:layout_width="match_parent"
     android:layout_height="400dp" />
 ```
@@ -57,3 +57,9 @@ mcPicSlider.adapter = McPicSliderAdapterFresco(
       )
 )
 ```
+## Author
+
+Kevin McGill, kevin@mcgilldevtech.com
+
+### License
+McPicSlider-Android is available under the MIT license. See the LICENSE file for more info.

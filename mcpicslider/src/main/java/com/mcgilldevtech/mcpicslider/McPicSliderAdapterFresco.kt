@@ -19,7 +19,6 @@ class McPicSliderAdapterFresco(context: Context,
     init {
         if (!Fresco.hasBeenInitialized()) {
             Fresco.initialize(context)
-            Fresco.getImagePipeline().clearCaches()
         }
     }
 

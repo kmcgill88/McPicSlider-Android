@@ -18,7 +18,7 @@ allprojects {
 
  ``` gradle
 dependencies {
-    compile 'com.mcgilldevtech.mcpicslider:McPicSlider-Android:0.1.0'
+    compile 'com.github.kmcgill88:McPicSlider-Android:0.1.0'
  }
 ```
 
